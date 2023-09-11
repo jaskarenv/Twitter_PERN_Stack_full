@@ -1,0 +1,4 @@
+Client Side has its own Repo/Git, create build, upload to S3
+Server Side has its own Repo/Git, upload to Elastic Beanstalk
+
+Created another package.json in root folder to concurrently run server and client at same time
